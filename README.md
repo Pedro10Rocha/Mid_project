@@ -25,16 +25,19 @@ High-level Planning of the project:
 Day 1:
 *****
 Exploratory data analysis of different data sets:  
-Berlin Cycling Count Data set for 2021  
-Berlin weather for 2021  
-Others if we find  
+-Berlin Cycling Count Data set for 2021  
+-Berlin weather for 2021  
+-Others if we find  
 Project plan creation  
+
 
 Day 2:
 ******
 Clean the data  
 Correct datatypes  
 Merge Data sets  
+Upload the clean data sets to Tableua and visualise some plots  
+
 
 Day 3:
 ******
