@@ -5,7 +5,7 @@ Bicycle traffic in Berlin
 
 Members of the group:
 *********************
-Oksana Leigh
+Oksana Leigh    
 Pedro da Rocha
 
 Goal:
