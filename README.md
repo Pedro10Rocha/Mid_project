@@ -1,6 +1,6 @@
 # Mid_project
 
-Bicycle traffic in Berlin:
+Bicycle traffic in Berlin
 **************************
 
 Members of the group:
